@@ -1,8 +1,8 @@
 # 自我介绍 Self-introduction
 
-嗨，我是@Yao-student，一名中国的中学生。
+嗨，我是@Yao-student，一名初中生。
 
-Hi, I'm @Yao-student. A Chinese high school student.
+Hi, I'm @Yao-student. A junior high school student.
 
 # 基本信息 Basic info
 
